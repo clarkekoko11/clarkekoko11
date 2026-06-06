@@ -1,77 +1,43 @@
-# Hi, I'm Clarke!
+# 💡 Koko
 
-Software Engineer focused on building scalable systems, clean user experiences, and maintainable codebases.
+`Software Engineer` `UI/UX Enthusiast` `System Builder`
 
-I believe software should be engineered, not assembled. Every project I work on prioritizes architecture, performance, security, and long-term sustainability over quick fixes and temporary solutions.
+I build scalable web applications, modern user interfaces, automation systems, and AI-powered solutions with a focus on maintainability, performance, and user experience.
 
----
-
-## Who Am I?
-
-I'm a developer with interests in:
-
-- Full-Stack Development
-- Software Architecture
-- UI/UX Engineering
-- Cybersecurity
-- Automation & Workflow Optimization
-- AI-Powered Applications
-
-I enjoy transforming ideas into production-ready systems while maintaining high standards for code quality, documentation, and user experience.
+<p>
+  <img src="https://img.shields.io/badge/PROJECTS-20+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUSED_ON-Full--Stack-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BUILDING-Employ-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-Always_Learning-red?style=for-the-badge" />
+</p>
 
 ---
 
-## What Am I Currently Working On?
+## Languages & Tools
 
-🌱 Currently Learning
-
-- Advanced System Design
-- Application Security
-- Cloud Infrastructure
-- Performance Optimization
-- AI Integration Workflows
-
----
-
-## What Tools Do I Use?
-
-### Frontend
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- GSAP
-- Three.js
-
-### Backend
-- Node.js
-- Express
-- Firebase
-- Convex
-
-### Database
-- PostgreSQL
-- MySQL
-- Firebase Firestore
-
-### Development
-- Git
-- GitHub
-- VS Code
-- Docker
-
-
-### Design
-- Figma
-- Photoshop
-- Illustrator
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
 ---
 
-## How To Reach Me?
+## Currently Building
 
-🌐 Portfolio:
-
-💬 Open to collaboration, development projects, UI/UX discussions, and software architecture conversations.
+- 🚀 Employ — Local Job Matching Platform
+- 🤖 AI Academic Counseling Assistant
+- 🛒 Minecraft Community Marketplace
+- 🎨 Modern Funnel & Web Experiences
 
 ---
+
+## Connect
+
+- Portfolio: your-website.com
+- Email: your-email@example.com

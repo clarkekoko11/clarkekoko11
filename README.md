@@ -28,16 +28,7 @@ I build scalable web applications, modern user interfaces, automation systems, a
 
 ---
 
-## Currently Building
-
-- 🚀 Employ — Local Job Matching Platform
-- 🤖 AI Academic Counseling Assistant
-- 🛒 Minecraft Community Marketplace
-- 🎨 Modern Funnel & Web Experiences
-
----
-
 ## Connect
 
 - Portfolio: your-website.com
-- Email: your-email@example.com
+

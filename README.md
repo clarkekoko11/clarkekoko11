@@ -1,44 +1,77 @@
-# Hello, I'm Koko 👋
+# Koko
 
-I build software with an obsession for precision, maintainability, and long-term scalability.
+Software Engineer focused on building scalable systems, clean user experiences, and maintainable codebases.
 
-Every line of code I write serves a purpose. I believe great software is not measured by how quickly it is built, but by how well it withstands growth, change, and complexity over time.
+I believe software should be engineered, not assembled. Every project I work on prioritizes architecture, performance, security, and long-term sustainability over quick fixes and temporary solutions.
 
-## Philosophy
+---
 
-- Design before development.
-- Simplicity over cleverness.
-- Performance without sacrificing readability.
-- Automation wherever possible.
-- Documentation is part of the product.
-- User experience is a feature, not an afterthought.
+## Who Am I?
 
-## What I Focus On
+I'm a developer with interests in:
 
 - Full-Stack Development
-- System Architecture
+- Software Architecture
 - UI/UX Engineering
+- Cybersecurity
 - Automation & Workflow Optimization
-- Developer Experience (DX)
-- Performance Engineering
-- Security & Reliability
+- AI-Powered Applications
 
-## Engineering Principles
+I enjoy transforming ideas into production-ready systems while maintaining high standards for code quality, documentation, and user experience.
 
-✓ Clean Architecture  
-✓ Reusable Components  
-✓ Responsive Design  
-✓ Accessibility First  
-✓ Type Safety  
-✓ Secure by Default  
-✓ Scalable Systems  
-✓ Continuous Improvement
+---
 
-## Current Mission
+## What Am I Currently Working On?
 
-Building products that are not only functional, but elegant, maintainable, and capable of serving thousands of users without compromising quality.
+🌱 Currently Learning
 
-## Motto
+- Advanced System Design
+- Application Security
+- Cloud Infrastructure
+- Performance Optimization
+- AI Integration Workflows
 
-> "Anyone can write code that works.
-> Great engineers write code that lasts."
+---
+
+## What Tools Do I Use?
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- GSAP
+- Three.js
+
+### Backend
+- Node.js
+- Express
+- Firebase
+- Convex
+
+### Database
+- PostgreSQL
+- MySQL
+- Firebase Firestore
+
+### Development
+- Git
+- GitHub
+- VS Code
+- Docker
+
+
+### Design
+- Figma
+- Photoshop
+- Illustrator
+
+---
+
+## How To Reach Me?
+
+🌐 Portfolio:
+
+💬 Open to collaboration, development projects, UI/UX discussions, and software architecture conversations.
+
+---

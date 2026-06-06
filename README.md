@@ -7,7 +7,6 @@ I build scalable web applications, modern user interfaces, automation systems, a
 <p>
   <img src="https://img.shields.io/badge/PROJECTS-20+-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FOCUSED_ON-Full--Stack-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BUILDING-Employ-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/STATUS-Always_Learning-red?style=for-the-badge" />
 </p>
 

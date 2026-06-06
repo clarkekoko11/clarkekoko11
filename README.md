@@ -21,10 +21,10 @@ I build scalable web applications, modern user interfaces, automation systems, a
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
 ![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
 ---
 
 ## Connect

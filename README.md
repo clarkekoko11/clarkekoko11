@@ -1,4 +1,4 @@
-# Koko
+# Hi, I'm Clarke!
 
 Software Engineer focused on building scalable systems, clean user experiences, and maintainable codebases.
 
